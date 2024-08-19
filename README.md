@@ -1,6 +1,6 @@
 # Backend .NET Developer Roadmap
 
-Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the .NET stack. Follow the phases and choose the courses that suit your learning style.
+Welcome to the Backend .NET Development Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the .NET stack. Follow the phases and choose the courses that suit your learning style.
 
 ## Phase 1: Basics
 
@@ -22,17 +22,12 @@ Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated li
 
 ## Phase 2: Advanced
 
+### C# Advanced 
+- [Passionate Coders](https://www.youtube.com/watch?v=g5lx0l7ikaQ&list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY&pp=iAQB)
+  
 ### C# Collections (Generic/Non-generic)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
 - [Metigator from 23 -> 46](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-
-### Algorithms
-- [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-- [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
-
-### SOLID Principles
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
-- [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=EmmWzD2CXg-rYZ1M)
 
 ### LINQ
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
@@ -59,6 +54,14 @@ Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated li
 
 ## Phase 4: Extra
 
+### Algorithms
+- [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+- [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
+
+### SOLID Principles
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
+- [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=EmmWzD2CXg-rYZ1M)
+  
 ### API Secure with JWT Authentication
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 
