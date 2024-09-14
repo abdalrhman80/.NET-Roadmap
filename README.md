@@ -6,6 +6,7 @@ Welcome to the Backend .NET Development Roadmap! This repository is a curated li
 
 ### Database / SQL Server
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [ITI Recordings 2024](https://elengmenofiaedu-my.sharepoint.com/personal/ahmed_ibrahiem141934_el-eng_menofia_edu_eg/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fahmed%5Fibrahiem141934%5Fel%2Deng%5Fmenofia%5Fedu%5Feg%2FDocuments%2FDB%20%2D%20ITI%20Summer%20Training%20Records&ga=1)
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
@@ -14,6 +15,7 @@ Welcome to the Backend .NET Development Roadmap! This repository is a curated li
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
 - [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
+- [ITI Recordings](https://drive.google.com/drive/folders/1EEY9r2-uoWocQBX4HGm2CDyMBOTMKUaI)
 
 ### Object-Oriented Programming (OOP)
 - [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
@@ -34,22 +36,26 @@ Welcome to the Backend .NET Development Roadmap! This repository is a curated li
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
 - [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa)
+- [ITI Recordings 2024](https://drive.google.com/drive/folders/1XxAgdJp1o7t7lFzF0JsuUxdliNciYuBU)
 
 ## Phase 3: Frameworks
 
 ### Entity Framework Core
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
+- [ITI Recordings 2024](https://drive.google.com/drive/folders/1HYZthU3eb5vQuK44YtAshuHVivft7Wke)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 
 ### ASP.NET Core MVC
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6S-uLNUmrgCJiQXfXi5KjRJ)
 - [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
+- [ITI Recordings 2024](https://mega.nz/folder/ZPFBTaqS#ZoLwhfnHddAMB19s3kx-cQ/folder/FT912LgB)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### ASP.NET Core API
 - [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
+- [ITI Recordings 2024](https://mega.nz/folder/ZPFBTaqS#ZoLwhfnHddAMB19s3kx-cQ/folder/ZDl3lB7K)
 - [Passionate Coders (Still recording)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
 
 ## Phase 4: Extra
